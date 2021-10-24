@@ -1,0 +1,6 @@
+framework module GJTAdditionKit {
+  umbrella header "GJTAdditionKit.h"
+
+  export *
+  module * { export * }
+}
